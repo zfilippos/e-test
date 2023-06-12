@@ -1,0 +1,8 @@
+{
+  "name": "eTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "fac8c05d"
+}
